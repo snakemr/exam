@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="exam-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="exam-jvm-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="exam.jvmMain" />
+    </root>
+  </artifact>
+</component>
